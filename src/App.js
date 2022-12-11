@@ -11,7 +11,7 @@ function App() {
     return (
         <section className='section'>
             <div className='title'>
-                <h2>Математика</h2>
+                <h2>Географія</h2>
             </div>
             <div className='jobs-center'>
                 <div className='btn-container'>
